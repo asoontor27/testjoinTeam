@@ -1,0 +1,11 @@
+cd directory
+
+git status 
+git remote -v
+... uploadfile
+git status
+git add .
+git status
+git commit -m "...."
+git push
+git log
